@@ -1,0 +1,20 @@
+C:\repository\C#\Двумерный массив(Ф)\bin\Debug\Двумерный массив(Ф).exe.config
+C:\repository\C#\Двумерный массив(Ф)\bin\Debug\Двумерный массив(Ф).exe
+C:\repository\C#\Двумерный массив(Ф)\bin\Debug\Двумерный массив(Ф).pdb
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).csproj.AssemblyReference.cache
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный_массив_Ф_.Form1.resources
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный_массив_Ф_.Properties.Resources.resources
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).csproj.GenerateResource.cache
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).csproj.CoreCompileInputs.cache
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).exe
+C:\repository\C#\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).pdb
+C:\repository\ООЯП\Двумерный массив(Ф)\bin\Debug\Двумерный массив(Ф).exe.config
+C:\repository\ООЯП\Двумерный массив(Ф)\bin\Debug\Двумерный массив(Ф).exe
+C:\repository\ООЯП\Двумерный массив(Ф)\bin\Debug\Двумерный массив(Ф).pdb
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).csproj.AssemblyReference.cache
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный_массив_Ф_.Form1.resources
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный_массив_Ф_.Properties.Resources.resources
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).csproj.GenerateResource.cache
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).exe
+C:\repository\ООЯП\Двумерный массив(Ф)\obj\Debug\Двумерный массив(Ф).pdb
