@@ -1,0 +1,41 @@
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  border-radius: 0%;
+  position: absolute;
+  animation: transform 5s forwards, move 5s linear infinite, colorchange 5s infinite;
+}
+@keyframes transform {
+    0% {
+        border-radius: 0%;
+    }
+    100% {
+        border-radius: 60%;
+    }
+}
+@keyframes move {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: calc(100% - 100px);
+    }
+}
+@keyframes colorchange {
+    0% {
+        background-color: pink;
+    }
+    25% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: aqua;    
+    }
+    75%{
+        background-color: greenyellow;
+    }
+    100% {
+        background-color: wheat;
+    }
+}
